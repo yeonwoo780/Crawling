@@ -1,0 +1,4 @@
+X-naver-Client-id 
+	8hjnTxa7N2VdEHlGFjOe
+X-naver-Client-secret
+	GYxF4X3eMh
